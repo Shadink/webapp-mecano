@@ -137,3 +137,8 @@ button:hover {
     border-radius: 14px;
     width: 50%;
 }
+
+.desc {
+    display: center;
+    margin: 30px;
+}
